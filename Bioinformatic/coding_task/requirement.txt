@@ -1,0 +1,10 @@
+Write a Perl/Python script to:
+
+1. Recursively find all FASTA files in a directory and report each file name and the number of sequences in that file that are greater than 300 bp long to an output file.
+2. For each FASTA file, report the 10 longest and the 10 shortest sequences (with sequence headers) to an output file.
+3. For each FASTA file, report the GC% and N50 size to an output file.
+
+NOTE:
+	- Sample input files have been provided. 
+	- Please make sure the script can run on the command line.
+	- In the spirit of assessing your programming abilities, please avoid using 3rd-party tools (e.g. bioPerl/bioPython) to solve the problem, but Linux/Unix commands are fine.

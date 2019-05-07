@@ -1,0 +1,10 @@
+nums:  10537	 	seq1.fas 
+nums:  9396	 	seq5.fas 
+nums:  8116	 	seq3.fas 
+nums:  10644	 	seq9.fas 
+nums:  6656	 	seq10.fas 
+nums:  7942	 	seq4.fas 
+nums:  10855	 	seq7.fas 
+nums:  631	 	seq8.fas 
+nums:  11623	 	seq2.fas 
+nums:  11171	 	seq6.fas 
