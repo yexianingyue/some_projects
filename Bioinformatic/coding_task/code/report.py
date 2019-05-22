@@ -113,6 +113,3 @@ if __name__ == '__main__':
     print("程序结束运行")
     sys.exit()
 
-from bs4 import BeautifulSoup
-from etree import xpath
-Bea
