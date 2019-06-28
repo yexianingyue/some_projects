@@ -54,6 +54,13 @@ def longest_shortest(input_f_name):
         i += 2
     lenth_list = len(temp_list)
     # 排序 长度：小 -> 大
+
+
+    # 使用sorted对列表进行排序
+    # temp_list = sorted( temp_list, key=lambda x:len( x[1]))
+
+
+
     for i in range(lenth_list):
         for j in range(i+1, lenth_list):
             if temp_list[i][1] > temp_list[j][1]:
